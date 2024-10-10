@@ -1,0 +1,4 @@
+C:/KPI/SPK2/build/CMakeFiles/calculator.dir
+C:/KPI/SPK2/build/CMakeFiles/calculator_exec.dir
+C:/KPI/SPK2/build/CMakeFiles/edit_cache.dir
+C:/KPI/SPK2/build/CMakeFiles/rebuild_cache.dir
